@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gmall.iml" filepath="$PROJECT_DIR$/Gmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamll-parent/gamll-parent.iml" filepath="$PROJECT_DIR$/gamll-parent/gamll-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-bean/gmall-bean.iml" filepath="$PROJECT_DIR$/gmall-bean/gmall-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-interface/gmall-interface.iml" filepath="$PROJECT_DIR$/gmall-interface/gmall-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-util-common/gmall-util-common.iml" filepath="$PROJECT_DIR$/gmall-util-common/gmall-util-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-util-service/gmall-util-service.iml" filepath="$PROJECT_DIR$/gmall-util-service/gmall-util-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-util-web/gmall-util-web.iml" filepath="$PROJECT_DIR$/gmall-util-web/gmall-util-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-vs-manage-service/gmall-vs-manage-service.iml" filepath="$PROJECT_DIR$/gmall-vs-manage-service/gmall-vs-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-vs-manage-web/gmall-vs-manage-web.iml" filepath="$PROJECT_DIR$/gmall-vs-manage-web/gmall-vs-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-vs-order-web/gmall-vs-order-web.iml" filepath="$PROJECT_DIR$/gmall-vs-order-web/gmall-vs-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-vs-user-manage/gmall-vs-user-manage.iml" filepath="$PROJECT_DIR$/gmall-vs-user-manage/gmall-vs-user-manage.iml" />
+    </modules>
+  </component>
+</project>
