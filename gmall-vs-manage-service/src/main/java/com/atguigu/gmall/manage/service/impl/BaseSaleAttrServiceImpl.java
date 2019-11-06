@@ -18,7 +18,7 @@ public class BaseSaleAttrServiceImpl implements BaseSaleAttrService {
     private BaseSaleAttrMapper baseSaleAttrMapper;
     @Override
     public List<BaseSaleAttr> baseSaleAttrList() {
-    	//测试一下AA
+    	//测试一下AAss
         return baseSaleAttrMapper.selectAll();
     }
 }
